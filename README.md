@@ -4,8 +4,9 @@ The Growing Hierarchical Neural Gas Self-Organizing Neural Network (GHNG) is a h
 ## Run the demo
 You may want to start by running some of the ghng_demo*.m scripts.
 
-![Alt text](ghng-self-organization.png?raw=true "GHNG self-organization for the two-dimensional ’X’ letter input
-distribution")
+![Alt text](ghng-self-organization.png?raw=true "GHNG self-organization for the two-dimensional ’X’ letter input distribution")
+
+![Alt text](ghng-color-quantization.png?raw=true "GHNG color quantization for the baboon image")
 
 The contents of this zip file are provided without any warranty. They are intended for evaluational purposes only. Any suggestions and bug reports will be welcome.
 
