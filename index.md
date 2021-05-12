@@ -1,7 +1,7 @@
 # GHNG
 The Growing Hierarchical Neural Gas Self-Organizing Neural Network (GHNG) is a hierarchical extension of the Growing Neural Gas (GNG) where a tree of modified GNGs is learned from the input dataset, so that hierarchical data can be analyzed without the restriction of fixed lattice topologies among the neurons. 
 
-This work was published in IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS journal as "The Growing Hierarchical Neural Gas Self-Organizing Neural Network (https://ieeexplore.ieee.org/document/7484280)".
+This work was published in IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS journal as [The Growing Hierarchical Neural Gas Self-Organizing Neural Network](https://ieeexplore.ieee.org/document/7484280).
 
 ## Run the demo
 You may want to start by running some of the ghng_demo*.m scripts.
