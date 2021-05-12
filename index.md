@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# GHNG
+The Growing Hierarchical Neural Gas Self-Organizing Neural Network (GHNG) is a hierarchical extension of the Growing Neural Gas (GNG) where a tree of modified GNGs is learned from the input dataset, so that hierarchical data can be analyzed without the restriction of fixed lattice topologies among the neurons. 
 
-You can use the [editor on GitHub](https://github.com/icai-uma/GHNG/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This work was published in IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS journal as "The Growing Hierarchical Neural Gas Self-Organizing Neural Network (https://ieeexplore.ieee.org/document/7484280)".
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Run the demo
+You may want to start by running some of the ghng_demo*.m scripts.
 
-### Markdown
+![Alt text](ghng-self-organization.png?raw=true "GHNG self-organization for the two-dimensional ’X’ letter input distribution")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Alt text](ghng-color-quantization.png?raw=true "GHNG color quantization for the baboon image")
 
-```markdown
-Syntax highlighted code block
+The contents of this zip file are provided without any warranty. They are intended for evaluational purposes only. Any suggestions and bug reports will be welcome.
 
-# Header 1
-## Header 2
-### Header 3
+## Citation
+Please, cite this work as:
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/icai-uma/GHNG/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+E. J. Palomo and E. López-Rubio, "The Growing Hierarchical Neural Gas Self-Organizing Neural Network," in IEEE Transactions on Neural Networks and Learning Systems, vol. 28, no. 9, pp. 2000-2009, Sept. 2017, doi: 10.1109/TNNLS.2016.2570124.
